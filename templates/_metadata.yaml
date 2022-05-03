@@ -1,0 +1,10 @@
+{{- define "common.metadata" -}}
+metadata:
+  name: {{ include "helm-common.fullname" . }}
+  labels:
+  {{- include "helm-common.labels" . | nindent 4 }}
+  annotations:
+    {{- range $key, $value := .Values.annotations }}
+    {{ $key }}: {{ $value | quote }}
+    {{- end }}
+{{- end -}}
