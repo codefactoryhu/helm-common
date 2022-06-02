@@ -13,5 +13,5 @@ curl --silent --show-error --fail --location --output /tmp/helm-docs.tar.gz http
 tar -C .bin/ -xf /tmp/helm-docs.tar.gz helm-docs
 
 # validate docs
-helm-docs --chart-search-root=./charts/helm-common/
+helm-docs --chart-search-root=./charts/ --template-files=./helm-common/README.md.gotmpl --template-files=./helm-common/_templates.gotmpl
 git diff --exit-code
