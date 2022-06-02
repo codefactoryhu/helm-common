@@ -4,13 +4,13 @@ Thanks for your interest in helm-common library chart. Our goal is to bring the 
 
 ## Getting Started
 
-An easy way to get started helping the project is to *file an issue*. You can do that on the MT Helm Common issues page by clicking on the *New Issue* button at the right. Issues can include bugs to fix, features to add, or documentation that looks outdated.
+An easy way to get started helping the project is to *file an issue*. You can do that on the CF Helm Common issues page by clicking on the *New Issue* button at the right. Issues can include bugs to fix, features to add, or documentation that looks outdated.
 
 ## Contributions
 
-MT Helm Common welcomes contributions from everyone.
+CF Helm Common welcomes contributions from everyone.
 
-Contributions to MT Helm Common should be made in the form of GitLab merge requests. Each merge request will
+Contributions to CF Helm Common should be made in the form of GitLab merge requests. Each merge request will
 be reviewed by a core contributor (someone with permission to land patches) and either landed in the
 main tree or given feedback for changes that would be required.
 
