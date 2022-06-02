@@ -2,7 +2,7 @@ apiVersion: v2
 name: helm-common
 description: A Helm chart template for creating helm charts 
 type: library
-version: 0.0.4
+version: 0.0.5
 icon: "https://simpleicons.org/icons/helm.svg"
 kubeVersion: ">= 1.21.6"
 home: "https://github.com/codefactoryhu/helm-common"
