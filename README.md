@@ -2,6 +2,7 @@
 
 ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: library](https://img.shields.io/badge/Type-library-informational?style=flat-square)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](docs/CODE_OF_CONDUCT.md)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/cf-common)](https://artifacthub.io/packages/search?repo=cf-common)
 
 
 Code Factory's `helm-common` is a **developer friendly DevOps solution** to **deploy** any application or service into **Kubernetes**. It's based on inidustrial standards and contains many years of experience developing and shipping real life services. It highly supports microservice architecture and semantic versioning. The template system of `helm-common` is a really powerfool tool, which allows you to ship your products even faster. 
