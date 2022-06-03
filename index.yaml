@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  helm-common:
+  - apiVersion: v2
+    created: "2022-06-03T11:41:36.158350137Z"
+    description: A Helm chart template for creating helm charts
+    digest: 9f63b14760a2bbdde99968082a0b85b9c7d5526e4172d16691fe9faf6889423c
+    home: https://github.com/codefactoryhu/helm-common
+    icon: https://simpleicons.org/icons/helm.svg
+    kubeVersion: '>= 1.21.6'
+    maintainers:
+    - email: kadlecsik.zoltan@codefactory.hu
+      name: Zoltan Kadlecsik
+    - email: vigh.zoltan@codefactory.hu
+      name: Zoltan Vigh
+    - email: szilagyi.abraham@codefactory.hu
+      name: Abraham Szilagyi
+    - email: magyar.zoltan@codefactory.hu
+      name: Zoltan Magyar
+    name: helm-common
+    sources:
+    - https://github.com/codefactoryhu/helm-common
+    type: library
+    urls:
+    - https://github.com/codefactoryhu/helm-common/releases/download/helm-common-0.0.1/helm-common-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-06-03T11:41:36.158358037Z"
